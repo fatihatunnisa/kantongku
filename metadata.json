@@ -1,0 +1,6 @@
+{
+  "name": "Kantongku",
+  "description": "An intelligent financial planner, cashflow tracker, and split-bill assistant with receipt OCR scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
