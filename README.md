@@ -35,7 +35,11 @@ Kantongku is a visually stunning, responsive, full-featured personal finance app
 - **Flexible Assignments**: Add custom friend names and split individual items between multiple people. The app automatically calculates precise split totals.
 - **Durable Export**: Download beautiful, crisp PDF receipt summaries for your group using **jsPDF** and **html2canvas**.
 - **Auto-Sync**: Clicking "Done & Save" automatically commits your own personal portion of the split bill back to your recent expenses!
-- **Optimized Mobile UX**: Features a streamlined mobile trigger button specifically scaled to stay clean, compact, and perfectly proportioned on compact screens.
+- **Optimized Mobile UX**: Features a streamlined mobile trigger button specifically scaled to stay clean, compact, and perfectly proportioned on compact screens ("Patungan" in ID / "Split Bill" in EN).
+
+### 7. ⚙️ Separate Profile & System Settings
+- **Profile Settings**: Click your user avatar (in the sidebar on desktop, or the top header on mobile) to configure personal information including Display Name, Email, and select or randomize adorable custom avatars.
+- **System Settings**: A dedicated, clean controls panel for technical system preferences including Next Payday Date, Secure Mode activation, language translation toggle (Bahasa Indonesia & English), and display theme toggling (Light Mode / Dark Mode).
 
 ---
 
